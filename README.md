@@ -1,6 +1,6 @@
-# Link Tag:
+# Deep Board:
 
-* Link Tag - Is a Type of URN (Url Redirect Notification) using IP Address and Geo Tagging as a Form of Advert into your own Platform..
+* Deep Board - Is a Type of URN (Url Redirect Notification) and DRM (Data Ranking Module) using IP Address and Geo Tagging as a Form of Advert into your own Platform..
 
 * It uses IP Address and Geo Tagging, example: SG Customers clicks or visits will receive the DNS Packets or Adverts from the Singapore (SG) based App..
 
